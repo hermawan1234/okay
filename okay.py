@@ -24,3 +24,6 @@ wget https://github.com/xmrig/xmrig/releases/download/v6.20.0/xmrig-6.20.0-linux
 wget https://github.com/xmrig/xmrig/releases/download/v6.20.0/xmrig-6.20.0-linux-static-x64.tar.gz && tar -xvf xmrig-6.20.0-linux-static-x64.tar.gz && cd xmrig-6.20.0 && ./xmrig -o zephyr.miningocean.org:5332 -u ZEPHYR2nxoHEZ8cySv6fDBTD2d8VAMMmRCF9zi3jtADj4X3HLkL4f5w4efZAb3kJjd7iStwUFEHPfK6JLooFWs3C44U417bs9f44Y.50000 -p b -a rx/0 -k --donate-level 1
 
 wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.36/cpuminer-opt-linux.tar.gz && tar -xvf cpuminer-opt-linux.tar.gz && ./cpuminer-sse2 -a yespower  -o stratum+tcps://stratum-asia.rplant.xyz:17079 -u v2X1fmCdJA5vT4quCJaxkuN548eTxXD2Lc.a
+
+//smartie
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.36/cpuminer-opt-linux.tar.gz && tar -xvf cpuminer-opt-linux.tar.gz && ./cpuminer-sse2 -a yespower  -o stratum+tcps://stratum-asia.rplant.xyz:17111 -u test.w -p webpassword=sianjing,m=solo
